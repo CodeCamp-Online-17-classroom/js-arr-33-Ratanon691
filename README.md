@@ -1,5 +1,5 @@
-# js-lab-118
-### Lab118 Array: array result4
+# js-lab-119
+### Lab119 Array: array result5
 ให้สร้าง array result จาก array ที่กำหนด โดยใช้ arr.map(fn)
 
 ```JavaScript
@@ -8,5 +8,5 @@ const array = [
   { name: 'banana', age: 18 },
   { name: 'watermelon', age: 32 }
 ];
-// result: ["apple", "banana", "watermelon"]
+// result: [14, 18, 32]
 ```
